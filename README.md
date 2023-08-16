@@ -1,4 +1,4 @@
-# Terraform-S3-Static-Website-Hosting
+ # Terraform-S3-Static-Website-Hosting
 
 This repository contains a Terraform script to set up an AWS S3 bucket for hosting a static website. It includes configuration for creating the bucket, defining the website index and error documents, and uploading the necessary files.
 
